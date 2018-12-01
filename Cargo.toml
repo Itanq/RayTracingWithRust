@@ -1,0 +1,7 @@
+[package]
+name = "RayTracingWithRust"
+version = "0.1.0"
+authors = ["zmant <zmant724@gmail.com>"]
+
+[dependencies]
+image = "*"
